@@ -1,0 +1,6 @@
+*.dta
+*.rds
+*.csl
+*.DS_Store
+*.Rproj.user
+paper/

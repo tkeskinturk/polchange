@@ -1,0 +1,57 @@
+survey,item,desc,label
+bhps,opcls3,social class affects opportunities,social class
+bhps,opfamf,"husband should earn, wife should stay at home",breadwinners (1)
+bhps,opfamr,homosexual relationships are wrong,homosexuals
+bhps,ophla,all healthcare should be free,free healthcare
+bhps,oppolb,people cannot influence government policy,influence govt (1)
+bhps,oppolc,there should be a limit on income,limit on income
+bhps,opsoca,ordinary people share nation's wealth,ordinary people
+bhps,opsocb,one law for rich and one law for poor,rich law poor law
+bhps,opsocc,private enterprise solves economic problems,private enterprise
+bhps,opsocd,public services ought to be state-owned,public services
+bhps,opsoce,government has an obligation to provide jobs,govt provides jobs
+bhps,opsocf,strong trade unions protect employees,trade unions
+bhps,trust,trustworthiness of others,trust in others (1)
+bhps,vote6,general level of interest in politics,interest in politics (1)
+shp,pp01,general level of interest in politics,interest in politics (2)
+shp,pp02,overall satisfaction with Swiss democracy,democracy (1)
+shp,pp03,feeling about government influence,influence govt (2)
+shp,pp04,trust in the federal government,trust in govt
+shp,pp10,political identification: left-right position,left-right position (1)
+shp,pp12,opinion on the Swiss Army,national army
+shp,pp13,opinion on social expenses,govt spending
+shp,pp15,opinion on chances for the foreigners,chances for foreigners
+shp,pp16,opinion on environmental protection,environment
+shp,pp17,opinion on taxes on high income,high income tax
+shp,pp18,opinion on nuclear energy,nuclear energy
+shp,pp20,women in Swiss society are generally penalized,gender equality
+shp,pp22,in favor of measures for gender equality,measures for gender
+shp,pp45,trustworthiness of others,trust in others (2)
+shp,pp53,public expenses: protection of the environment,public expenses 1
+shp,pp54,public expenses: health,public expenses 2
+shp,pp55,public expenses: day nursery,public expenses 3
+shp,pp56,public expenses: police and public order,public expenses 4
+shp,pp57,public expenses: research and education,public expenses 5
+shp,pp58,public expenses: military and defense,public expenses 6
+shp,pp59,public expenses: retirement,public expenses 7
+shp,pp60,public expenses: culture and art,public expenses 8
+shp,pp61,public expenses: unemployment benefit,public expenses 9
+shp,pp62,public expenses: aid to developing countries,public expenses 10
+shp,pp63,public expenses: social aid,public expenses 11
+shp,spendgover,spending factor: big versus small government,"govt spending, F1"
+shp,spendshare,spending factor: desired substantive shares,"govt spending, F2"
+soep,plh0004,political identification: left-right position,left-right position (3)
+soep,plh0007,general level of interest in politics,interest in politics (3)
+soep,plh0192,trustworthiness: on the whole trust people,trust 1
+soep,plh0193,trustworthiness: nowadays can't trust anyone,trust 2
+soep,plh0194,trustworthiness: caution when dealing with strangers,trust 3 
+soep,plh0195,trustworthiness: most people are exploitative,trust 4
+soep,plh0196,trustworthiness: most people act in their own interest,trust 5
+soep,trustscale,trustworthiness of others,trust in others (3)
+soep,plj0046,worried about immigration to germany,immigration
+soep,plj0047,worried about hostility to foreigners,hostility to foreigners
+ukhls,demorient,overall satisfaction with UK democracy,democracy (4)
+ukhls,scenv_ftst,opinion on personal lifestyle and environment,environmental behavior 
+ukhls,scenv_grn,"being green is an alternative lifestyle, not for the majority",environment lifestyle
+ukhls,scopfamf,"husband should earn, wife should stay at home",breadwinners (4)
+ukhls,vote6,general level of interest in politics,interest in politics (4)
