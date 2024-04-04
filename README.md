@@ -2,7 +2,7 @@
 
 This repository provides the replication files for the paper *Life-Course Transitions and Political Orientations.*
 
-The pre-print version of the paper is stored at [SocArXiv]().
+The pre-print version of the paper is stored at [SocArXiv](https://osf.io/preprints/socarxiv/rk47w).
 
 ### Notes on Replication
 
