@@ -1,0 +1,50 @@
+% latex table generated in R 4.4.1 by xtable 1.8-4 package
+% Tue Jul  2 21:25:37 2024
+\begin{longtable}{llrrrrrr}
+  \hline
+survey & label & Marriage & First-Parenthood & Marriage Dissolution & Entry to Labor & Unemployment & Retirement \\ 
+  \hline
+BHPS & social class & -0.04 & -0.04 & 0.04 & -0.01 & 0.02 & -0.01 \\ 
+  BHPS & breadwinners (1) & -0.03 & 0.01 & -0.06 & 0.01 & -0.02 & 0.00 \\ 
+  BHPS & homosexuals & 0.01 & -0.02 & -0.03 & 0.04 & -0.01 & -0.02 \\ 
+  BHPS & free healthcare & 0.01 & 0.00 & 0.02 & -0.01 & -0.00 & -0.01 \\ 
+  BHPS & influence govt (1) & -0.03 & 0.00 & 0.00 & 0.00 & -0.03 & -0.01 \\ 
+  BHPS & limit on income & 0.04 & -0.01 & 0.03 & -0.01 & 0.03 & -0.02 \\ 
+  BHPS & ordinary people & -0.02 & -0.01 & -0.02 & 0.05 & -0.02 & -0.01 \\ 
+  BHPS & rich law poor law & -0.03 & 0.01 & -0.00 & 0.02 & 0.02 & 0.01 \\ 
+  BHPS & private enterprise & 0.00 & 0.02 & 0.00 & 0.05 & 0.02 & 0.02 \\ 
+  BHPS & public services & -0.00 & 0.02 & 0.02 & -0.03 & 0.00 & -0.00 \\ 
+  BHPS & govt provides jobs & 0.03 & 0.02 & 0.01 & 0.03 & -0.01 & 0.01 \\ 
+  BHPS & trade unions & -0.02 & 0.00 & 0.02 & 0.05 & 0.02 & 0.02 \\ 
+  BHPS & trust in others (1) & 0.03 & 0.04 & -0.02 & -0.11 & -0.01 & -0.01 \\ 
+  BHPS & interest in politics (1) & 0.01 & 0.03 & -0.03 & -0.01 & 0.02 & 0.03 \\ 
+  SHP & interest in politics (2) & 0.01 & 0.01 & -0.01 & -0.01 & 0.04 & 0.05 \\ 
+  SHP & democracy (1) & 0.00 & 0.00 & -0.01 & -0.03 & -0.02 & -0.00 \\ 
+  SHP & influence govt (2) & -0.01 & -0.00 & -0.02 & 0.01 & -0.01 & 0.00 \\ 
+  SHP & trust in govt & 0.01 & 0.01 & -0.03 & -0.03 & -0.00 & 0.01 \\ 
+  SHP & left-right position (1) & -0.00 & -0.00 & 0.02 & 0.05 & 0.02 & 0.01 \\ 
+  SHP & national army & 0.04 & 0.02 & 0.00 & 0.03 & -0.04 & 0.02 \\ 
+  SHP & govt spending & 0.02 & -0.01 & -0.00 & 0.04 & 0.01 & -0.02 \\ 
+  SHP & chances for foreigners & 0.03 & -0.03 & 0.01 & 0.08 & 0.02 & -0.03 \\ 
+  SHP & environment & -0.01 & 0.01 & -0.01 & 0.04 & 0.02 & -0.02 \\ 
+  SHP & high income tax & 0.01 & 0.01 & 0.01 & 0.00 & -0.03 & 0.02 \\ 
+  SHP & nuclear energy & -0.00 & -0.01 & 0.03 & 0.01 & 0.04 & -0.03 \\ 
+  SHP & gender equality & -0.00 & 0.02 & -0.00 & -0.00 & 0.01 & -0.00 \\ 
+  SHP & measures for gender & 0.00 & 0.02 & 0.00 & -0.00 & 0.02 & 0.00 \\ 
+  SHP & trust in others (2) & 0.00 & 0.02 & 0.02 & -0.02 & 0.00 & 0.02 \\ 
+  SHP & govt spending, F1 & -0.01 & -0.01 & -0.02 & -0.03 & 0.01 & 0.01 \\ 
+  SHP & govt spending, F2 & 0.00 & 0.01 & -0.00 & -0.00 & -0.02 & -0.01 \\ 
+  SOEP & left-right position (3) & 0.00 & 0.00 & -0.00 & -0.02 & -0.01 & 0.02 \\ 
+  SOEP & interest in politics (3) & -0.01 & 0.00 & -0.02 & 0.01 & -0.02 & 0.01 \\ 
+  SOEP & immigration & 0.03 & 0.03 & 0.01 & 0.10 & 0.04 & 0.01 \\ 
+  SOEP & hostility to foreigners & -0.01 & 0.02 & 0.02 & 0.04 & 0.02 & -0.00 \\ 
+  SOEP & trust in others (3) & 0.01 & -0.01 & -0.01 & -0.06 & 0.01 & -0.02 \\ 
+  UKHLS & democracy (4) & 0.02 & 0.01 & 0.00 & -0.04 & -0.02 & 0.00 \\ 
+  UKHLS & environmental behavior & 0.00 & -0.03 & 0.03 & -0.05 & 0.00 & 0.00 \\ 
+  UKHLS & environment lifestyle & -0.00 & -0.00 & -0.00 & 0.01 & -0.02 & -0.01 \\ 
+  UKHLS & breadwinners (4) & 0.02 & 0.02 & -0.01 & 0.06 & -0.01 & -0.00 \\ 
+  UKHLS & interest in politics (4) & 0.01 & 0.02 & -0.02 & -0.01 & -0.00 & 0.02 \\ 
+   \hline
+\hline
+\caption{Table X} 
+\end{longtable}

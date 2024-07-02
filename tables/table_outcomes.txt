@@ -1,0 +1,52 @@
+% latex table generated in R 4.4.1 by xtable 1.8-4 package
+% Tue Jul  2 18:31:27 2024
+\begin{table}[ht]
+\centering
+\begin{tabular}{llll}
+  \hline
+Survey & Labels & Description & Item \\ 
+  \hline
+bhps & social class & Social class affects opportunities & opcls3 \\ 
+  bhps & breadwinners (1) & Husband should earn, wife should stay at home & opfamf \\ 
+  bhps & homosexuals & Homosexual relationships are wrong & opfamr \\ 
+  bhps & free healthcare & All healthcare should be free & ophla \\ 
+  bhps & influence govt (1) & People cannot influence government policy & oppolb \\ 
+  bhps & limit on income & There should be a limit on income & oppolc \\ 
+  bhps & ordinary people & Ordinary people share nation's wealth & opsoca \\ 
+  bhps & rich law poor law & One law for rich and one law for poor & opsocb \\ 
+  bhps & private enterprise & Private enterprise solves economic problems & opsocc \\ 
+  bhps & public services & Public services ought to be state-owned & opsocd \\ 
+  bhps & govt provides jobs & Government has an obligation to provide jobs & opsoce \\ 
+  bhps & trade unions & Strong trade unions protect employees & opsocf \\ 
+  bhps & trust in others (1) & Trustworthiness of others & trust \\ 
+  bhps & interest in politics (1) & General level of interest in politics & vote6 \\ 
+  shp & interest in politics (2) & General level of interest in politics & pp01 \\ 
+  shp & democracy (1) & Overall satisfaction with swiss democracy & pp02 \\ 
+  shp & influence govt (2) & Feeling about government influence & pp03 \\ 
+  shp & trust in govt & Trust in the federal government & pp04 \\ 
+  shp & left-right position (1) & Political identification: left-right position & pp10 \\ 
+  shp & national army & Opinion on the swiss army & pp12 \\ 
+  shp & govt spending & Opinion on social expenses & pp13 \\ 
+  shp & chances for foreigners & Opinion on chances for the foreigners & pp15 \\ 
+  shp & environment & Opinion on environmental protection & pp16 \\ 
+  shp & high income tax & Opinion on taxes on high income & pp17 \\ 
+  shp & nuclear energy & Opinion on nuclear energy & pp18 \\ 
+  shp & gender equality & Women in swiss society are generally penalized & pp20 \\ 
+  shp & measures for gender & In favor of measures for gender equality & pp22 \\ 
+  shp & trust in others (2) & Trustworthiness of others & pp45 \\ 
+  shp & govt spending, F1 & Spending factor: big versus small government & spendgover \\ 
+  shp & govt spending, F2 & Spending factor: desired substantive shares & spendshare \\ 
+  soep & left-right position (3) & Political identification: left-right position & plh0004 \\ 
+  soep & interest in politics (3) & General level of interest in politics & plh0007 \\ 
+  soep & trust in others (3) & Trustworthiness of others & trustscale \\ 
+  soep & immigration & Worried about immigration to germany & plj0046 \\ 
+  soep & hostility to foreigners & Worried about hostility to foreigners & plj0047 \\ 
+  ukhls & democracy (4) & Overall satisfaction with uk democracy & demorient \\ 
+  ukhls & environmental behavior & Opinion on personal lifestyle and environment & scenv\_ftst \\ 
+  ukhls & environment lifestyle & Being green is an alternative lifestyle, not for the majority & scenv\_grn \\ 
+  ukhls & breadwinners (4) & Husband should earn, wife should stay at home & scopfamf \\ 
+  ukhls & interest in politics (4) & General level of interest in politics & vote6 \\ 
+   \hline
+\end{tabular}
+\caption{Table X} 
+\end{table}
